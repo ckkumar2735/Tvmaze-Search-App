@@ -50,7 +50,7 @@ function Actor() {
               return (
                 <div className="col-md-3 mb-3">
                   <div className="card">
-                    <a href={element.person.url} target="_aayush">
+                    <a href={element.person.url} target="_chandra ">
                     {element.person.image ? (
                       <img
                         src={element.person.image.medium}
